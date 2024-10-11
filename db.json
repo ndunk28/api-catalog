@@ -39,6 +39,44 @@
         { "id": 9, "name": "L", "price": 79.99 },
         { "id": 10, "name": "XL", "price": 84.99 }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Stainless Steel Water Bottle",
+      "description": "Keep your drinks cold for hours with this insulated water bottle.",
+      "price": 24.99,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/300x300?text=Water+Bottle",
+      "variants": [
+        { "id": 11, "name": "500ml", "price": 24.99 },
+        { "id": 12, "name": "750ml", "price": 29.99 },
+        { "id": 13, "name": "1L", "price": 34.99 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Leather Messenger Bag",
+      "description": "A stylish and durable leather bag for your daily commute.",
+      "price": 129.99,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/300x300?text=Messenger+Bag",
+      "variants": [
+        { "id": 14, "name": "Brown", "price": 129.99 },
+        { "id": 15, "name": "Black", "price": 129.99 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Vintage Polaroid Camera",
+      "description": "Capture memories instantly with this classic Polaroid camera.",
+      "price": 69.99,
+      "category": "Electronics",
+      "image": "https://via.placeholder.com/300x300?text=Polaroid+Camera",
+      "variants": [
+        { "id": 16, "name": "White", "price": 69.99 },
+        { "id": 17, "name": "Black", "price": 69.99 },
+        { "id": 18, "name": "Pink", "price": 74.99 }
+      ]
     }
   ]
 }
